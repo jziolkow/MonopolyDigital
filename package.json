@@ -1,0 +1,17 @@
+{
+  "name": "monopoly",
+  "version": "1.0.0",
+  "description": "Manage all assets in a game of Monopoly digitally using your smart phone, iPad, or PC.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
